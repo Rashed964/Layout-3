@@ -1,0 +1,85 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    overflow: hidden;
+}
+.logo{
+    background-color: aqua;
+    text-align: center;
+    width: 20%;
+    float: left;
+}
+.banner{
+    background-color: cadetblue;
+    text-align: center;
+    width: 80%;
+    float: left;
+}
+.content{
+    background-color: cornflowerblue;
+    text-align: center;
+}
+.content_area{
+    overflow: hidden;
+
+}
+.left{
+    background-color: darkcyan;
+    text-align: center;
+    width: 20%;
+    height: 400px;
+    float: left;
+
+}
+.center{
+    background-color: darkkhaki;
+    text-align: center;
+    width: 60%;
+    height: 400px;
+    float: left;
+
+}
+.top_bar{
+    background-color: darkslategray;
+    text-align: center;
+    height: 100px;
+    
+}
+.middle{
+    overflow: hidden;
+}
+
+
+.left_bar{
+    background-color: gray;
+    width: 50%;
+    height: 200px;
+    text-align: center;
+    float: left;
+    
+}
+.right_bar{
+    background-color: hotpink;
+    width: 50%;
+    height: 200px;
+    text-align: center;
+    float: left;
+   
+}
+.bottom_bar{
+    background-color: deepskyblue;
+    text-align: center;
+    height: 150px;
+
+  
+}
+.right{
+    background-color: darkslateblue;
+    text-align: center;
+    width: 20%;
+    height: 500px;
+    float: right;
+
+}
